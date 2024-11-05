@@ -12,11 +12,11 @@ h2{
 }
 
 a{
-    color: #ffd56c;
+    color: #ffd866;
 }
 
 a:hover{
-    color: #66d9ef;
+    color: #027aff;
 }
 
 #loremPic{
@@ -25,4 +25,28 @@ a:hover{
 
 .accordion-button{
     background-color: #D6D6D6;
+}
+
+.blue{
+    color:#66d9ef
+}
+
+.white{
+    color: #D6D6D6;
+}
+
+.yellow{
+    color: #ffd866;
+}
+
+.purple{
+    color: #ae81ff;
+}
+
+.redish{
+    color: #f92672;
+}
+
+.green {
+    color: #a6e22e;
 }
